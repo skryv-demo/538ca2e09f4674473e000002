@@ -1,1 +1,70 @@
-{}
+{
+    "algemeen": {},
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "Man"
+        },
+        "etniciteit_vader": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "etniciteit_moeder": {
+            "selectedChoice": "Kaukasisch"
+        },
+        "datum_van_de_eerste_insulinetoediening": "Fri Feb 07 2003 00:00:00 GMT+0100 (Romance Standard Time)",
+        "patient_niss": 88090930179,
+        "naam": "Declercq",
+        "voornaam": "Dimitry",
+        "geboortemaand": 9,
+        "geboortejaar": 1998,
+        "arrondissement": null,
+        "overleden": false
+    },
+    "datacollectie": {
+        "algemeen": {
+            "taalproblemen": {
+                "selectedChoices": {}
+            },
+            "puberteitprepuberteit": {
+                "selectedChoice": "Puberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Standaard mengsels toegediend 's morgens en 's avonds met occasioneel een extra toediening van snelle/ultrasnelle insuline"
+            },
+            "datum_van_de_meest_recente_consultatie": "Mon May 12 2014 00:00:00 GMT+0200 (Romance Daylight Time)",
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": true,
+            "kerngezin": true
+        },
+        "metingen": {
+            "lengte": {},
+            "gewicht": {},
+            "systolische_bloeddruk": {},
+            "diastolische_bloeddruk": {}
+        },
+        "screenings": {
+            "coeliakie": {
+                "selectedChoices": {}
+            },
+            "schildklierimmuniteit": {
+                "selectedChoices": {}
+            },
+            "hypo_of_hyperthyreodie": {
+                "selectedChoices": {}
+            },
+            "epilepsie": {
+                "selectedChoices": {}
+            },
+            "retinopathie": {
+                "selectedChoices": {}
+            },
+            "nefropathie": {
+                "selectedChoices": {}
+            },
+            "bloedlipiden": {
+                "selectedChoices": {}
+            },
+            "neuropathie": {
+                "selectedChoices": {}
+            }
+        }
+    }
+}
